@@ -1,0 +1,8 @@
+{
+  "name": "Remix THIRAN — AI-Powered Smart Internship System",
+  "description": "Find the opportunity that fits your potential with precision skill matching, profile gap analysis, and tailored interview preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
